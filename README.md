@@ -37,7 +37,7 @@ LandingPage-RealEstate/
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/real-estate-landing-page.git
+git clone https://github.com/tuongdp/real-estate-landing-page.git
 ```
 
 2. Open the project folder in Visual Studio Code.
