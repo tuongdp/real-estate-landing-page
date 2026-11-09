@@ -73,6 +73,35 @@
     .separate {
         border-top: 1.5px solid #ebebeb;
     }
+
+    .hero-img {
+        display: none;
+    }
+
+    .hero-wrap .info {
+        width: 80%;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .hero-wrap .desc {
+        width: 80%;
+        margin: 30px auto auto;
+    }
+
+    .clients .images {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .featured .list {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .guide-item {
+        margin: 0;
+        flex: 1;
+    }
 }
 /* Tablet */
 @media screen and (min-width: 768px) and (max-width: 991px) {
